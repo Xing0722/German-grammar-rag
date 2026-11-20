@@ -1,0 +1,25 @@
+# Copyrighted textbook data and derived files
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/
+
+# Secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
